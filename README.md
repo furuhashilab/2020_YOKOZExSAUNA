@@ -4,7 +4,7 @@
 横瀬xサウナイベント向け、<u>イベント商品開発</u>
 
 ## Members
-<ul>
-  Oba Keita
-  Lee Jiyul
-  Anbo Ryuichi
+横瀬部
+* Oba Keita
+* Lee Jiyul
+* Anbo Ryuichi
